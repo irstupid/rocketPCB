@@ -9,10 +9,17 @@ hi, im ian. i made a little rocket ship keychain, and when you press the button 
 capacitors are already supplied
 
 this is the view of the schematic:
+
 ![Schematic View](/rocketShip/SchematicView.png)
 
 this is the view of the PCB routes and stuff:
+
 ![PCB View](/rocketShip/PCBView.png)
 
 this is the view of the 3D moddle:
+
 ![3D View](/rocketShip/3DView.png)
+
+this is the view of the back:
+
+![3D View](/rocketShip/Back.png)
