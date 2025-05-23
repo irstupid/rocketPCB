@@ -22,4 +22,4 @@ this is the view of the 3D moddle:
 
 this is the view of the back:
 
-![3D View](/rocketShip/Back.png)
+![Back View](/rocketShip/BackView.png)
